@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Escuchar XDebug fpm",
+            "type": "php",
+            "request": "launch",
+            // server -> local
+            "pathMappings": {
+              "/app/public": "D:\\local\\semana-wp-12\\app\\public",
+              "/app/public/wp-content/themes/semanawp": "${workspaceRoot:semanawp}"
+            },
+            // "log": true,
+            "port": 9000,
+            "xdebugSettings":{
+              "max_children": 64,
+              "max_depth": 4
+            }
+        }
+    ]
+}

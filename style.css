@@ -1,0 +1,14 @@
+/*!
+Theme Name:  Semana WordPress
+Theme URI:   https://generatepress.com
+Description: Custom Semana WordPress theme and created as a GeneratePress child theme
+Author:      Carlos Longarela <carlos@longarela.eu>
+Author URI:  https://tabernawp.com/
+Template:    generatepress
+Version:     1.0.1
+Text Domain: semanawp
+Domain Path: /languages
+Updated:     2020-09-21
+*/@font-face{font-family:"Raleway";font-style:italic;font-weight:100 900;font-display:swap;src:url("./fonts/raleway-italic-variable.woff2") format("woff2")}@font-face{font-family:"Raleway";font-style:normal;font-weight:100 900;font-display:swap;src:url("./fonts/raleway-variable.woff2") format("woff2")}@font-face{font-family:"Grenze Gotisch";font-style:normal;font-weight:100 900;font-display:swap;src:url("./fonts/grenze-gotisch-variable.woff2") format("woff2")}body{background-color:#bbe7ec}
+
+/*# sourceMappingURL=maps/style.css.map */

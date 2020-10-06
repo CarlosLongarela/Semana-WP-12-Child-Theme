@@ -1,0 +1,42 @@
+// Base Colors.
+$color_blue-wp:               #21759b;
+$color_orange-wp:             #d0491c;
+$color_grey:                  #d8d8d8;
+
+$color_pure-white:            #fff;
+$color_pure-black:            #000;
+
+$color_blue-wp-darker:        #005a87;
+
+$color_green-whatsapp:        #25d466;
+
+// Notice Colors.
+$color_notice-general-border: #666;
+
+$color_notice-info-border:    #00a0d2;
+$color_notice-info-bg:        #e5f5fa;
+
+$color_notice-ok-border:      #46b450;
+$color_notice-ok-bg:          #ecf7ed;
+
+$color_notice-warning-border: #ffb900;
+$color_notice-warning-bg:     #fff8e5;
+
+$color_notice-error-border:   #dc3232;
+$color_notice-error-bg:       #fbeaea;
+
+// Base Size.
+$size_font-base: 62.5; /* 62.5% = 10px */
+
+$screen_min-width: 320px;
+$screen_max-width: 1200px;
+$font_min-size:    16px;
+$font_max-size:    28px;
+
+$mobile_width-break: 981px;
+
+// Multipliers for fluid sizes.
+$mod_1: 1.3; // mobile
+$mod_2: 1.4; // desktop
+
+$theme_path: '/wp-content/themes/semanawp';

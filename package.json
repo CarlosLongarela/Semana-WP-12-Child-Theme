@@ -1,0 +1,27 @@
+{
+  "name": "semanawp",
+  "version": "1.0.0",
+  "description": "Semana WP 12 WordPress Child Theme",
+  "main": "gulpfile.js",
+  "private": true,
+  "devDependencies": {
+    "npm": "^6.14.8",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosLongarela/Semana-WP-12-Child-Theme"
+  },
+  "author": "Carlos Longarela",
+  "license": "ISC",
+  "homepage": "https://tabernawp.com/"
+}
